@@ -40,7 +40,7 @@ Each dataset was analyzed using an identical computational workflow to enable di
 
 ### Manuscript
 
-- `Paper.pdf`
+- `Paper.pdf` Geometry-aware ligand-receptor analysis distinguishes interface association from spatial localization and reveals a continuum of tumor communication
 
 ### Publication Figures
 
