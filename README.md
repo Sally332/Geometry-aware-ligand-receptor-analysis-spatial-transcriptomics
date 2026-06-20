@@ -15,6 +15,12 @@ This study introduces a geometry-aware framework that separates interface associ
 
 Applied across multiple tumor microenvironments, the framework reveals conserved and tissue-specific communication programs while providing quantitative measures of spatial constraint.
 
+## Framework
+
+![Interpretability Framework](Figure1_Geometry_Aware_Framework.png)
+
+Overview of the evaluation framework used to assess interpretability in concept bottleneck models across multiple biological regimes. The framework quantifies concept selectivity, concept-space geometry, and gene-level mechanistic support, demonstrating that structured representations do not necessarily imply mechanistic validity.
+
 ## Scientific Contributions
 
 - Introduces a geometry-aware framework for ligand–receptor analysis in spatial transcriptomics.
