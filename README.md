@@ -3,7 +3,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19476574.svg)](https://doi.org/10.5281/zenodo.19476574)
 ![Research](https://img.shields.io/badge/type-research%20resource-blue)
 ![Domain](https://img.shields.io/badge/domain-spatial%20transcriptomics-green)
-![Focus](https://img.shields.io/badge/focus-cell--cell%20communication-orange)
 
 A geometry-aware framework for prioritizing biologically meaningful ligand–receptor interactions in spatial transcriptomics.
 
